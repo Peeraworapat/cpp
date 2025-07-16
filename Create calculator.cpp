@@ -53,8 +53,10 @@ int main() {
         cout << endl;
         cout <<"----------------------------------" << endl;
         cout << num1 << " / " << num2 << " = " << num1/num2 << endl;
+        cout << "Subreact function" << endl;
+   }else{ 
+        cout << "invalid data" << endl;
    }
     return 0;
-
-
+ cout << "invalid data" << endl;
 }
